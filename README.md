@@ -33,6 +33,11 @@ Bubble size reflects customer volume in each segment.
 
 ![Recency vs Frequency](recency_vs_frequency.png)
 
+### 3. Interactive Power BI Dashboard
+Executive overview tracking total revenue (£18M), customer base (5.8K), and segment distribution.
+
+![Power BI Dashboard](powerbi_dashboard.png)
+
 ---
 
 ## 🛠️ Data Pipeline & Methodology
@@ -51,3 +56,4 @@ Bubble size reflects customer volume in each segment.
 * **Language:** Python 3
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Environment:** VS Code, Git
+* **BI & Visualization:** Power BI Desktop (Interactive Dashboards & DAX)
